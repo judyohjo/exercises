@@ -1,1 +1,1 @@
-# SQL-exercises
+# exercises
